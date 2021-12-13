@@ -104,6 +104,12 @@ body {
 		margin-top: 0px;
 		max-width: 80%;
 	}
+	* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+	overflow-y:hidden;}
+	
 	.title {
 		font-size: 23px;
 	}
